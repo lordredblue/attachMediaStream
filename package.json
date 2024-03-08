@@ -20,7 +20,7 @@
     "webrtc-adapter": "^4.0.0"
   },
   "devDependencies": {
-    "browserify": "2.x",
-    "webrtc-adapter": "^4.0.0"
+    "browserify": "^17.0.0",
+    "webrtc-adapter": "^8.2.3"
   }
 }
